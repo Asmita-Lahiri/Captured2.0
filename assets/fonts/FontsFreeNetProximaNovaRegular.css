@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'FontsFreeNetProximaNovaRegular';
+    src: url('fonts/FontsFreeNetProximaNovaRegular.eot');
+    src: url('fonts/FontsFreeNetProximaNovaRegular.eot') format('embedded-opentype'),
+         url('fonts/FontsFreeNetProximaNovaRegular.woff2') format('woff2'),
+         url('fonts/FontsFreeNetProximaNovaRegular.woff') format('woff'),
+         url('fonts/FontsFreeNetProximaNovaRegular.ttf') format('truetype'),
+         url('fonts/FontsFreeNetProximaNovaRegular.svg#FontsFreeNetProximaNovaRegular') format('svg');
+}
